@@ -1,7 +1,9 @@
 ## Docker Utils
 
 #### [apt-settings.sh](https://raw.githubusercontent.com/sammcj/docker-utils/master/apt-settings.sh)
-Sets sensible apt defaults for building Docker images
+
+* Sets apt mirrors (default is AU)
+* Enables contrib and non-free repos
 
 ###### Usage
 
